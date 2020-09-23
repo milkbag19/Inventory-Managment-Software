@@ -1,6 +1,4 @@
 # Inventory-Managment-Software
-My Summative Assignment made by request for my auto shop teacher. 
-
 How to use :
   - Simply click the red "X" to delete any item.  
   
